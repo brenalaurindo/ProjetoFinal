@@ -3,7 +3,7 @@ package br.edu.ifsc;
 import java.util.HashMap;
 import java.util.Map;
 
-// Classe Singleton para o Hospital
+// Brena: Classe Singleton para o Hospital
 class Hospital {
     private static Hospital instance;
     private Map<String, Paciente> pacientesMap;

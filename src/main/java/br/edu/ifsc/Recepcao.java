@@ -2,7 +2,7 @@ package br.edu.ifsc;
 
 import java.util.Scanner;
 
-// Classe Recepção
+// Brena: Classe Recepção
 class Recepcao {
     public static void realizarAtendimento(Paciente paciente) {
 

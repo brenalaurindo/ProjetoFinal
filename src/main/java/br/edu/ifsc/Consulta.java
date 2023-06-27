@@ -2,7 +2,7 @@ package br.edu.ifsc;
 
 import java.util.Scanner;
 
-// Classe Consulta
+// Brena: Classe Consulta
 class Consulta {
     public static void realizarAtendimento(Paciente paciente) {
         Scanner scanner = new Scanner(System.in);

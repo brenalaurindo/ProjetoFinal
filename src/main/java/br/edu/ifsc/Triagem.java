@@ -2,7 +2,7 @@ package br.edu.ifsc;
 
 import java.util.Scanner;
 
-// Classe Triagem
+// Brena: Classe Triagem
 class Triagem {
     public static void realizarAtendimento(Paciente paciente) {
         Scanner scanner = new Scanner(System.in);

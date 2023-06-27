@@ -1,6 +1,6 @@
 package br.edu.ifsc;
 
-// Classe Paciente que implementa o Observer
+// Brena: Classe Paciente que implementa o Observer
 class Paciente implements LaudoObserver {
     private String nome;
     private String cpf;

@@ -1,6 +1,6 @@
 package br.edu.ifsc;
 
-// Classe Decorator para atualização do laudo
+// Edson: Classe Decorator para atualização do laudo
 abstract class LaudoDecorator implements LaudoObserver {
     protected LaudoObserver decoratedObserver;
 
